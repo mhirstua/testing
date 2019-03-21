@@ -10,7 +10,7 @@ This CloudWatch alarm monitors the ELB for PRD and will send an alert to the KFS
 
 ## SNS (AWS Simple Notification Service)
 * Contains two topics
-** test
+   - test
 * KFS Docker repo url (default: git@github.com:ua-eas/docker-kfs6.git)
 * Release ticket number
 * Release version number
